@@ -2,4 +2,5 @@ envs/*
 __pycache__/*
 output/*
 env.json
+.env
 *.pyc
